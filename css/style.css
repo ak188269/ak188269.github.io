@@ -53,7 +53,8 @@ Description: Portfolio/CV/Resume HTML Template
   margin: 15px;
 }
 .project-links:hover{
-color: rgb(71, 69, 69);
+color: red;
+background-color: #433f53;
 }
 html {
   margin: 0 !important;
